@@ -23,7 +23,7 @@ uvx --from keymap-drawer keymap draw -z corne toucan_keymap.yaml > keymap.svg
 
 # Todo
 
-* Add auto-generated images
+* Add github workflow to auto-generate images
 
 # License
 
