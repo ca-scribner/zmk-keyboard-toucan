@@ -11,3 +11,4 @@ The included shield nice_view_gem is modified from https://github.com/M165437/ni
 ZMK code snippets are taken from the ZMK documentation under the MIT license.
 
 The embedded font QuinqueFive is designed by GGBotNet, licensed under under the SIL Open Font License, Version 1.1.
+..
