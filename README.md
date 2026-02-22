@@ -21,10 +21,6 @@ uvx --from keymap-drawer keymap parse -c 10 -z ./config/toucan.keymap > toucan_k
 uvx --from keymap-drawer keymap draw -z corne toucan_keymap.yaml > keymap.svg
 ```
 
-# Todo
-
-* Add github workflow to auto-generate images
-
 # License
 
 The code in this repo is available under the MIT license.
