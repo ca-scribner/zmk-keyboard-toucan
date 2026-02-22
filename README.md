@@ -17,7 +17,7 @@ Use the [ZMK Studio](https://zmk.studio/) to connect to the keyboard to update t
 ## Generating Keymap drawings
 
 ```
-uvx --from keymap-drawer keymap parse -c 10 -z ./config/toucan.keymap > toucan_keymap.ya
+uvx --from keymap-drawer keymap parse -c 10 -z ./config/toucan.keymap > toucan_keymap.yaml
 uvx --from keymap-drawer keymap draw -z corne toucan_keymap.yaml > keymap.svg
 ```
 
