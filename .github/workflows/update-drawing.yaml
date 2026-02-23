@@ -26,7 +26,7 @@ jobs:
       - name: Generate keymap.yaml
         run: keymap parse -c 10 -z ./config/toucan.keymap > keymap.yaml
       - name: Generate SVG
-        run: keymap --from keymap-drawer keymap draw -z corne keymap.yaml > keymap.svg
+        run: keymap draw -z corne keymap.yaml > keymap.svg
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
