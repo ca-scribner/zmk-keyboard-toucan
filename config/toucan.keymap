@@ -36,14 +36,14 @@
         nav {
             display-name = "NAV";
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp HOME  &kp UP_ARROW  &kp END  &trans  &trans  &trans  &kp LEFT_GUI  &kp LEFT_ALT  &kp LCTRL  &kp LEFT_SHIFT  &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT  &trans  &trans  &trans  &trans  &trans  &kp K_COPY  &kp K_PASTE  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp PG_UP  &kp PAGE_DOWN  &none
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp HOME  &kp UP_ARROW  &kp END  &trans  &trans  &trans  &kp LEFT_GUI  &kp LEFT_ALT  &kp LCTRL  &kp LEFT_SHIFT  &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT  &trans  &trans  &trans  &trans  &trans  &kp K_COPY  &kp K_PASTE  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp PG_UP  &kp RET  &kp PAGE_DOWN
             >;
         };
 
         WNAV {
             display-name = "WNAV";
             bindings = <
-&trans  &kp LG(N1)  &kp LG(N2)  &kp LG(N3)  &kp LG(N4)  &kp LG(N5)  &kp LG(N6)  &kp LG(N7)  &kp LG(UP)  &kp LG(N8)  &kp LG(N9)  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LG(LEFT)  &kp LG(DOWN)  &kp LG(RIGHT)  &trans  &trans  &trans  &kp LG(LS(N1))  &kp LG(LS(N2))  &kp LG(LS(N3))  &kp LG(LS(N4))  &kp LG(LS(N5))  &kp LG(LS(N6))  &kp LG(LS(N7))  &trans  &kp LG(LS(N8))  &kp LG(LS(N9))  &trans  &trans  &trans  &trans  &kp LG(PG_UP)  &kp LG(PAGE_DOWN)  &trans
+&trans  &kp LG(N1)  &kp LG(N2)  &kp LG(N3)  &kp LG(N4)  &kp LG(N5)  &kp LG(N6)  &kp LG(N7)  &kp LG(UP)  &kp LG(N8)  &kp LG(N9)  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LG(LEFT)  &kp LG(DOWN)  &kp LG(RIGHT)  &trans  &trans  &trans  &kp LG(LS(N1))  &kp LG(LS(N2))  &kp LG(LS(N3))  &kp LG(LS(N4))  &kp LG(LS(N5))  &kp LG(LS(N6))  &kp LG(LS(N7))  &trans  &kp LG(LS(N8))  &kp LG(LS(N9))  &trans  &trans  &trans  &trans  &kp LG(PG_UP)  &none  &kp LG(PAGE_DOWN)
             >;
         };
 
