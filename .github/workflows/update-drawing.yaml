@@ -2,8 +2,6 @@ name: Update drawing
 # https://github.com/n3oney/zmk-config/blob/main/.github/workflows/update-drawing.yml
 on:
   push:
-    branches:
-      - main
     paths: 'config/*'
       
   workflow_dispatch:
