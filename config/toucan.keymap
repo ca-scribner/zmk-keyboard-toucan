@@ -53,14 +53,14 @@
         base {
             display-name = "BASE";
             bindings = <
-&kp GRAVE  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &none  &none  &mt LEFT_GUI A  &mt LEFT_ALT S  &mt LCTRL D  &mt LEFT_SHIFT F  &kp G  &kp H  &mt RIGHT_SHIFT J  &mt RCTRL K  &mt RIGHT_ALT L  &mt RIGHT_GUI SEMICOLON  &kp SQT  &caps_word_lock  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &none  &mo 4  &lt 3 SPACE  &lt 2 TAB  &lt 5 BACKSPACE  &lt 1 RET  &kp DELETE
+&kp GRAVE  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &none  &caps_word_lock  &hrm_left LEFT_GUI A  &hrm_left LEFT_ALT S  &hrm_left LCTRL D  &hrm_left LEFT_SHIFT F  &kp G  &kp H  &hrm_right RIGHT_SHIFT J  &hrm_right RCTRL K  &hrm_right RIGHT_ALT L  &hrm_right RIGHT_GUI SEMICOLON  &kp SQT  &none  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &none  &mo 4  &lt 3 SPACE  &lt 2 TAB  &lt 5 BACKSPACE  &lt 1 RET  &kp DELETE
             >;
         };
 
         sym {
             display-name = "SYM";
             bindings = <
-&kp GRAVE  &kp UNDERSCORE  &kp LESS_THAN  &kp GREATER_THAN  &kp MINUS  &kp PIPE  &kp CARET  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp DOLLAR  &none  &none  &none  &mt LEFT_GUI KP_DIVIDE  &mt LEFT_ALT KP_ASTERISK  &mt LCTRL KP_PLUS  &mt LEFT_SHIFT KP_EQUAL  &kp AMPERSAND  &kp POUND  &mt RIGHT_SHIFT LEFT_PARENTHESIS  &mt RCTRL RIGHT_PARENTHESIS  &kp RIGHT_ALT  &mt RIGHT_GUI SEMICOLON  &kp SQT  &none  &kp TILDE  &none  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PERCENT  &kp AT_SIGN  &kp COLON  &kp COMMA  &kp DOT  &kp FSLH  &none  &none  &kp SPACE  &kp TAB  &none  &none  &none
+&kp GRAVE  &kp UNDERSCORE  &kp LESS_THAN  &kp GREATER_THAN  &kp MINUS  &kp PIPE  &kp CARET  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp DOLLAR  &none  &none  &none  &hrm_left LEFT_GUI KP_DIVIDE  &hrm_left LEFT_ALT KP_ASTERISK  &hrm_left LCTRL KP_PLUS  &hrm_left LEFT_SHIFT KP_EQUAL  &kp AMPERSAND  &kp POUND  &hrm_right RIGHT_SHIFT LEFT_PARENTHESIS  &hrm_right RCTRL RIGHT_PARENTHESIS  &kp RIGHT_ALT  &hrm_right RIGHT_GUI SEMICOLON  &kp SQT  &none  &kp TILDE  &none  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PERCENT  &kp AT_SIGN  &kp COLON  &kp COMMA  &kp DOT  &kp FSLH  &none  &none  &kp SPACE  &kp TAB  &none  &none  &none
             >;
         };
 
